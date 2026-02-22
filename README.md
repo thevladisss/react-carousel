@@ -2,6 +2,8 @@
 
 A lightweight image carousel built from scratch with React 19, TypeScript, and Vite. No third-party carousel libraries — all transition logic and navigation are implemented manually using CSS animations and React state.
 
+https://github.com/user-attachments/assets/6c5b744b-dc89-4f51-bcc6-c4bb0fea87cf
+
 ## Features
 
 - Smooth sliding transitions (previous/next) with CSS-driven animations
